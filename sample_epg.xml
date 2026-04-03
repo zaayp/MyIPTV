@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="OpenAI Sample XMLTV">
+  <channel id="CNBCEurope.uk">
+    <display-name>CNBC Europe</display-name>
+  </channel>
+  <channel id="BloombergTVPlus.us">
+    <display-name>Bloomberg TV+</display-name>
+  </channel>
+  <channel id="BloombergTV.us">
+    <display-name>Bloomberg TV (US)</display-name>
+  </channel>
+  <channel id="CNNInternationalEurope.us">
+    <display-name>CNN International</display-name>
+  </channel>
+  <channel id="AlJazeeraEnglish.qa">
+    <display-name>Al Jazeera</display-name>
+  </channel>
+  <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="CNBCEurope.uk">
+    <title lang="en">Market Opening Bell</title>
+    <desc lang="en">Sample programme entry for CNBC Europe.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="CNBCEurope.uk">
+    <title lang="en">European Business Live</title>
+    <desc lang="en">Sample programme entry for CNBC Europe.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="CNBCEurope.uk">
+    <title lang="en">Closing Exchange Europe</title>
+    <desc lang="en">Sample programme entry for CNBC Europe.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="BloombergTVPlus.us">
+    <title lang="en">Bloomberg Brief</title>
+    <desc lang="en">Sample programme entry for Bloomberg TV+.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="BloombergTVPlus.us">
+    <title lang="en">Global Markets</title>
+    <desc lang="en">Sample programme entry for Bloomberg TV+.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="BloombergTVPlus.us">
+    <title lang="en">The Pulse</title>
+    <desc lang="en">Sample programme entry for Bloomberg TV+.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="BloombergTV.us">
+    <title lang="en">Bloomberg Surveillance</title>
+    <desc lang="en">Sample programme entry for Bloomberg TV (US).</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="BloombergTV.us">
+    <title lang="en">Bloomberg Markets</title>
+    <desc lang="en">Sample programme entry for Bloomberg TV (US).</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="BloombergTV.us">
+    <title lang="en">Balance of Power</title>
+    <desc lang="en">Sample programme entry for Bloomberg TV (US).</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="CNNInternationalEurope.us">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Sample programme entry for CNN International.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="CNNInternationalEurope.us">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Sample programme entry for CNN International.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="CNNInternationalEurope.us">
+    <title lang="en">Connect the World</title>
+    <desc lang="en">Sample programme entry for CNN International.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="AlJazeeraEnglish.qa">
+    <title lang="en">News Live</title>
+    <desc lang="en">Sample programme entry for Al Jazeera.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="AlJazeeraEnglish.qa">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Sample programme entry for Al Jazeera.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="AlJazeeraEnglish.qa">
+    <title lang="en">The Stream</title>
+    <desc lang="en">Sample programme entry for Al Jazeera.</desc>
+    <category lang="en">News</category>
+  </programme>
+</tv>
