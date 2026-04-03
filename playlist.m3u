@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/nmThSUQUsk.xml"
 
-#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC Europe" group-title="Business News",CNBC Europe
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC Europe" tvg-logo="https://logos.fandom.com/wiki/CNBC_Europe?file=CNBC_-_2025.svg" group-title="Business News",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business News",Bloomberg TV+
