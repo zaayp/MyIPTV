@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/zaayp/MyIPTV/blob/main/sample_epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zaayp/MyIPTV/refs/heads/main/sample_epg.xml"
 
 #EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC Europe" group-title="Business News",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
