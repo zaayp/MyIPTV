@@ -22,7 +22,7 @@ https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business News",CNBC Europe HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
-#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business News",CNBC Europe (360p)
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business News",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business News",CNBC UK (1080p) [Geo-blocked]
@@ -30,3 +30,26 @@ https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u
 
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business News",CNBC (1080p?)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Business News",РБК (576p)
+https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Первый канал (1080p)
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europe" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="General",Россия 1 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-logo="https://i.imgur.com/T42cuYx.png" group-title="General",Россия-РТР
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" tvg-logo="https://i.imgur.com/T42cuYx.png" group-title="General",Россия-РТР
+https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedy",Comedy Central
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedy",Comedy Central
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
